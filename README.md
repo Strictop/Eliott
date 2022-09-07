@@ -1,8 +1,5 @@
 # Eliott
 
-## Un lien :
-Ce document est rédigé en [MarkDown](https://fr.wikipedia.org/wiki/Markdown).
-
 ## Un GIF :
 <p align="center">
   <img align="center" width="30%" src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" />
@@ -15,13 +12,13 @@ Ce document est rédigé en [MarkDown](https://fr.wikipedia.org/wiki/Markdown).
 - Monsieur Algoriyhme  ⇢ Al-Khwârizmî 9ème siècle
 
 ## Votre fiche d'informations :
-Nom: Bellec 
+*Nom* : Bellec 
 
-Prenom: Eliott
+*Prenom* : Eliott
 
-Classe: 1ère G3
+*Classe* : 1ère G3
 
-Pourquoi avoir choisi la NSI ? : Car elle permet de s'orienter vers différentes formations du numérique porteuses d'avenir.
+*Pourquoi avoir choisi la NSI ?* : Car elle permet de s'orienter vers différentes formations du numérique porteuses d'avenir.
 
 
 
