@@ -14,9 +14,14 @@ Ce document est rédigé en [MarkDown](https://fr.wikipedia.org/wiki/Markdown).
 - Grace Hopper (notion de logiciel) 20 ème siècle
 - Monsieur Algoriyhme  ⇢ Al-Khwârizmî 9ème siècle
 
-## Un avertissement :
-> Libre à vous de personaliser cette page à l'aide de la documentation
->  du [MarkDown à la sauce GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)...
+## Votre fiche d'informations :
+Nom: Bellec 
+
+Prenom: Eliott
+
+Classe: 1ère G3
+
+Pourquoi avoir choisi la NSI ? : Car elle permet de s'orienter vers différentes formations du numérique porteuses d'avenir.
 
 
 
