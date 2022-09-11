@@ -1,26 +1,47 @@
 ## Une liste:
 -Binaire
+
 -Programme
--algorithme
--compilateur
+
+-Algorithme
+
+-Compilateur
+
 -"Evacuer la penser du calcul afin de la rendre éxécutable par un ordinateur"
+
 -Enigma
+
 -Explosion des communications notament grâce à internet
+
 -Prix des ordinateurs en baisses, donc plus accessibles
-- "Basculé de l'air industriel à l'air numérique
--language informatique
+
+-"Basculé de l'air industriel à l'air numérique"
+
+-Language informatique:
+
 Date clés
+
 -1937 : Premier ordinateur à logique binaire
+
 -1940 : Premier ordinateur
+
 -1944 : Architecture de Von Neumann
-Personnages important
+
+Personnages important:
 
 -Monsieur Algoriyhme ⇢ Al-Khwârizmî : Chiffre arabe, algorithme
--Ada Lovelace : Mathématicienne; a permis d'intégrer des algorithmes dans des programmes; ses résultats aide à la création du premièr ordinateur (19 ème siècle)
+
+-Ada Lovelace : Mathématicienne; a permis d'intégrer des algorithmes dans des programmes; ses résultats aide à la création
+du premièr ordinateur (19 ème siècle)
+
 -Alan Turing : Il a créer une machine capable de déchiffrer Enigma (20 ème siècle)
+
 -Grace Hopper : Créer la premiere compilateur (20 ème siècle)
--Claude Elwood Shannon :Définit la quantité d'info de manière mathématiques
--Andrei Nikolaievitch Kolmogorov : Mise en équation de la théorie des probabilités
--Rose Dieng-Kuntz : Web Sémantique
+
+-Claude Elwood Shannon : Définit la quantité d'info de manière mathématiques (20 ème siècle)
+
+-Andrei Nikolaievitch Kolmogorov : Mise en équation de la théorie des probabilités (20 ème siècle)
+
+-Rose Dieng-Kuntz : Web Sémantique (20 ème siècle)
 
 Ce sont les fondateurs de notre ère numérique 
