@@ -16,7 +16,21 @@ jupyter:
 ## mon titre 2
 
 ```python
-print("salam")
+print("bonjour")
+```
+
+```python
+a = 5
+a
+```
+Le résultat de l'affectation 
+
+```python
+b = a + 3
+```
+
+```python
+print (b)
 ```
 
 ```python
