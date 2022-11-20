@@ -35,7 +35,7 @@ Ces balises sont _communes à tous sites web_ et représente la bases sur laquel
     * listes ordonées : **`<ol>`**
     * pour écrire un élement d'une liste, il faut utiliser la balise **`<li>`** 
     ![liste](https://www.pierre-giraud.com/wp-content/uploads/2019/05/liste-non-ordonnee-html.png)
-Chaque élément d'une liste est balisé avec un élément **`<li>`** (list item)
+    Chaque élément d'une liste est balisé avec un élément **`<li>`** (list item)
 4. Sauts de ligne : 
     * pour sauter une ligne, il faut utiliser la balise **`<br>`**
 5. Les images :
