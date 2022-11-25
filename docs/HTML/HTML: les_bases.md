@@ -42,6 +42,8 @@ Ces balises sont _communes à tous sites web_ et représente la bases sur laquel
     * pour intégrer une image, il faut utiliser la balises **`<img>`**, elle s'utilise ainsi : `<img src="image.png" alt="nom de l'image (souvent utiliser pour les personnes mal-voyants)" >`
 
 ### Source:
-    * https://www.pierre-giraud.com/
-    * https://developer.mozilla.org/fr/docs/Mozilla
+   * https://www.pierre-giraud.com/
+   * https://developer.mozilla.org/fr/docs/Mozilla
+     
+    
     
