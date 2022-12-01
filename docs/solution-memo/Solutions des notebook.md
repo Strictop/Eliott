@@ -105,4 +105,4 @@ Markdown(chaine)
 ## Quelques bases de programmation en Python 3
 
 ```
-test :):)
+test :)
