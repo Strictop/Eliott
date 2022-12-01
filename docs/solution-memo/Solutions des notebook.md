@@ -106,5 +106,3 @@ Markdown(chaine)
 
 ```
 test :):)
-
-
