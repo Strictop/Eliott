@@ -1,18 +1,6 @@
 
 
-3. Écrire une fonction qui prend en paramètres deux entiers et qui affiche toutes les lettres dont les codes numériques sont compris entre ces deux entiers.
-
-
-4. Sauriez vous décoder cette exclamation en Binaire : 01000010011100100110000101110110011011110010000000100001 ?
-
-01000-01001-11001-00110-00010-11101-10011-01111-00100-00000-100001
-
-Convertir en hexadecimal:
-42 72 61 76 6F 20 21
-
-Convertir ASCII:
-Bravo !
-
+²
 
 5. Peut-on coder cette phrase avec la table ASCII : "un âne est passé par là" (justifier la réponse)
 
