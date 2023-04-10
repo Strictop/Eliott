@@ -15,5 +15,4 @@ Cahier de texte NSI: https://ericecmorlaix.github.io/1NSI_2022-2023/
 
 Gitpod: https://www.gitpod.io/
 
-Machine virtuelle pour VSC: https://gitpod.io/start/#strictop-eliott-iorz7s4mmn6
-
+Machine virtuelle pour VSC: https://gitpod.io/workspace
